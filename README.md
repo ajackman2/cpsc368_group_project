@@ -19,3 +19,5 @@ We hypothesize that some changes have persisted leading to increased internet us
 
 We hypothesize that there will be differences in the change in daily internet use between age groups as younger groups are likely to already use the internet heavily while older groups may have previously not used the internet much.
 
+# How to Run the Code
+
