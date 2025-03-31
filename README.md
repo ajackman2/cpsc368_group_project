@@ -12,6 +12,7 @@ We were generally interested in investigating whether Canadians' relationship wi
 We hypothesize that Internet use increased with the prevalence of COVID-19 since Canadians socially isolated during these times and needed the internet for school, work, and socialization.
 
 2. Have any changes in average daily internet use adopted during the pandemic (2020-2021) persisted post-pandemic (2022-2025)?
+
 We hypothesize that some changes have persisted leading to increased internet usage post-pandemic as technologies such as zoom, telemedicine, and remote work have persisted.
 
 3. Are there differences between age groups (e.g. under 15, 15-24, 25-64, 65+)  in how daily internet use has changed?
