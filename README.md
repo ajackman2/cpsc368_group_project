@@ -64,6 +64,8 @@ There are three subfolders in the code:
 **Scripts Files**
 
 *data_cleaning.ipynb*: file where we clean both datasets
+*EDA.ipynb*: file containing the exploratory data analysis
+
 
 # External Libraries Required to Run the Code
 
