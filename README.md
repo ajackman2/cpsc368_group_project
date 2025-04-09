@@ -65,6 +65,14 @@ There are three subfolders in the code:
 
 *data_cleaning.ipynb*: file where we clean both datasets
 
+# External Libraries Required to Run the Code
+
+1. Pandas
+2. Altair
+3. Numpy
+4. Oracledb
+5. Os
+
 
 
 
